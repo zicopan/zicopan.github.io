@@ -1,0 +1,36 @@
+#promo {
+  text-align: center;
+  background: url(../../assets/img/background4.png) no-repeat;
+  background-size: cover;
+}
+
+#dekta {
+  text-align: center;
+  background: white;
+}
+
+#real_background {
+  background: url(../../assets/img/maya.jpg) no-repeat;
+  /*background: url(../../assets/img/maya2.png);*/
+  background-size: 100%;
+  /*background: black;*/
+  margin-top: 60px;
+}
+
+#about {
+  text-align: center;
+}
+
+#para_about {
+  text-align: left;
+}
+
+#projs {
+  text-align: center;
+  background: rgb(255,255,255);
+}
+
+#proj_col {
+  background: black;
+}
+
